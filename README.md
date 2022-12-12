@@ -1,6 +1,6 @@
 # Milk Production Management Application
 
-This is a project I created as a test to get a job as a fullstack developer in the software development agency Imran.
+This is a project I created as a test to get a job as a fullstack developer in the software development agency **OMRAN SOFTWARE**.
 
 ## Presentation
 
