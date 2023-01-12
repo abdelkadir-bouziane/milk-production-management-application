@@ -4,11 +4,45 @@ This is a project I created as a test to get a job as a fullstack developer in t
 
 ## Presentation
 
-The project consists in creating an internal website (in arabic) to manage the daily operations of a milk production company. These operations are:
+The project consists in creating an internal website in arabic (create the user interface design for the website, then code it) to manage the daily operations of a milk production company. These operations are:
 - Registration of cows (cow number, date of entry, breed: Holstein, Montbliard).
 - Registration of the medical examination of cows (day of examination, illness).
 - Recording of births (mother cow number, date of birth).
 - Recording of the total daily milk production (day, amount of milk in liters).
+
+## Screenshots
+
+### Desktop view
+
+![](./screenshots/desktop/desk_1.png)
+___
+![](./screenshots/desktop/desk_2.png)
+___
+![](./screenshots/desktop/desk_3.png)
+___
+![](./screenshots/desktop/desk_4.png)
+___
+![](./screenshots/desktop/desk_5.png)
+
+### Tablet view
+
+![](./screenshots/tablet/tab_1.png)
+___
+![](./screenshots/tablet/tab_2.png)
+___
+![](./screenshots/tablet/tab_3.png)
+___
+![](./screenshots/tablet/tab_4.png)
+
+### Smartphone view
+
+![](./screenshots/smartphone/smrt_1.png)
+___
+![](./screenshots/smartphone/smrt_2.png)
+___
+![](./screenshots/smartphone/smrt_3.png)
+___
+![](./screenshots/smartphone/smrt_4.png)
 
 ## Technologies used
 
